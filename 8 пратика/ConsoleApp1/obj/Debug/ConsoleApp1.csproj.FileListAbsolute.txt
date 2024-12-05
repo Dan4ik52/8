@@ -1,0 +1,14 @@
+C:\Users\makar\OneDrive\Рабочий стол\5 практика М.Д\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\makar\OneDrive\Рабочий стол\5 практика М.Д\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\makar\OneDrive\Рабочий стол\5 практика М.Д\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\makar\OneDrive\Рабочий стол\5 практика М.Д\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\makar\OneDrive\Рабочий стол\5 практика М.Д\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\makar\OneDrive\Рабочий стол\5 практика М.Д\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\makar\OneDrive\Рабочий стол\5 практика М.Д\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\makar\OneDrive\Рабочий стол\⠀\Учеба\8 пратика\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\makar\OneDrive\Рабочий стол\⠀\Учеба\8 пратика\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\makar\OneDrive\Рабочий стол\⠀\Учеба\8 пратика\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\makar\OneDrive\Рабочий стол\⠀\Учеба\8 пратика\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\makar\OneDrive\Рабочий стол\⠀\Учеба\8 пратика\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\makar\OneDrive\Рабочий стол\⠀\Учеба\8 пратика\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\makar\OneDrive\Рабочий стол\⠀\Учеба\8 пратика\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
